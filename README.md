@@ -1,5 +1,5 @@
 ### Hi
-프로필~
+프로필
 <!--
 **pungua/pungua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
